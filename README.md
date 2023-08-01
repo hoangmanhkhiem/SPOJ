@@ -3,7 +3,7 @@ More problems source code correct
 
 # Please use it for reference purposes only, do not abuse it ( Khuyên dùng khi bạn không thể tìm ra hướng giải quyết không nên lạm dụng đáp án sẽ không giúp bạn tiến bộ được)
 
-## More 500 Source code submited in web spoj
+## More 1000 Source code submited in web spoj
 
 #### Uses :
 
