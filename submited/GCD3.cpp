@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: GCD3
 ALGO: math
 */

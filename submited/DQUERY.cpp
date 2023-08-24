@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: DQUERY
 ALGO: binary indexed tree
 */

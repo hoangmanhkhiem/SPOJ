@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: MSE06H
 ALGO: binary indexed tree
 */

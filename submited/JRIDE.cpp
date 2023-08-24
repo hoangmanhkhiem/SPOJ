@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: JRIDE
 ALGO: dynamic programming
 */

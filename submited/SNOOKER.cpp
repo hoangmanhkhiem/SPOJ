@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: SNOOKER
 ALGO: math, gcd
 */

@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: ARITH2
 ALGO: ad-hoc
 */

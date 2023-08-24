@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: QUADRATE
 ALGO: ad-hoc
 */

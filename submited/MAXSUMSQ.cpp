@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: MAXSUMSQ
 ALGO: dynamic programming
 */

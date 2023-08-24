@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: GCDEX
 ALGO: math, euler phi
 */

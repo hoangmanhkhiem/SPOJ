@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: BISHOPS
 ALGO: ad-hoc, big integer
 */

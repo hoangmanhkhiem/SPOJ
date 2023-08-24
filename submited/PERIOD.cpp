@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: PERIOD
 ALGO: knuth morris patt
 */

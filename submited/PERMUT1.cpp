@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: PERMUT1
 ALGO: dynamic programming
 */

@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: DIVSUM2
 ALGO: math, prime
 */

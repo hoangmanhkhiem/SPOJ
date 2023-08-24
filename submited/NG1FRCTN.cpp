@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: NG1FRCTN
 ALGO: math, gcd, recursion
 */

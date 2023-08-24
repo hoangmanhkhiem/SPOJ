@@ -17,7 +17,7 @@ inline void answer(int a){tester.answer(a);}
 #define tester _tester_
 
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 TASK: PALIM
 ALGO: manacher
 */

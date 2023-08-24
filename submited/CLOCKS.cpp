@@ -1,5 +1,5 @@
 /*
-USER: zobayer
+USER: hoangmanhkhiem
 PROG: CLOCKS
 ALGO: pre-calculation
 */
